@@ -1,0 +1,9 @@
+1er Paso, activar apache y mysql. En mi caso usé Xamp
+(También agregar la carpeta "Pagina_Torneo_Gaming" a la carpeta de del servidor, en mi caso "htdocs")
+
+2do Paso, colocar en el navegador la siguiente dirección
+"http://localhost/Pagina_Torneo_Gaming/index.php"
+
+3er Paso, puede interactuar con diferentes elementos de la página, sin embargo, para acceder al juego primero debe loguearse, en la base de datos aparecen varios usuarios para escoger, pero le incentivo a que cree su propio usuario y luego intente iniciar sesión
+
+4to Paso, no todo es muy bello, y el juego tampoco está muy bello, pero hicimos lo que se pudo. Ahora ya puede ingresar al juego presionando en la barra superior que indica "Jugar" también puede cerrar sesión una vez acabe de utilizar la página.
